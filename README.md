@@ -105,6 +105,7 @@ To disable the menu button, append the query string `?menu=false` to the URL. Th
 | **cmd + s**         | save        |
 | **cmd + z**         | undo        |
 | **cmd + shift + z** | redo        |
+| **alt               | copy object |
 
 ---
 
